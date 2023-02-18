@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @frigtul
-- 📫 How to reach me via Matrix: @frigtul:matrix.org
 
 <!---
 frigtul/frigtul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
